@@ -63,7 +63,7 @@
         </config-file>
 		
 	<framework src="src/android/FCMPlugin.gradle" custom="true" type="gradleReference"/>
-	<framework src="com.google.android.gms:play-services-location:9.2.0" />
+	<framework src="com.google.android.gms:play-services-location:11.8.0" />
 	    
 		
         <source-file src="src/android/FCMPlugin.java" target-dir="src/com/gae/scaffolder/plugin" />
